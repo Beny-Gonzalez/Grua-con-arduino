@@ -1,8 +1,12 @@
 # Grua-con-arduino
 
+Proyecto grúa.
+![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/ff37e9c0-f71a-47a5-8a7d-6510767a3ed6)
+![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/65029307-07b2-4560-b96d-130e538574c2)
 
 
 Funciones:
+
 La grúa desempeñara dos funciones principales las cuales son las siguientes: 
 
 - La primera función es que permitirá girar la base a un ángulo de 180 grados, lo cual podrá moverse para poder cambiar un objeto de una posición a otra (eje x). 
