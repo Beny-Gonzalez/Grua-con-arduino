@@ -1,7 +1,5 @@
 # Grua-con-arduino
 
-Proyecto grúa.
-
 ![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/ff37e9c0-f71a-47a5-8a7d-6510767a3ed6)
 ![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/6f29d8aa-a87b-4c6a-97c7-fb4a7a9830d5)
 ![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/65029307-07b2-4560-b96d-130e538574c2)
