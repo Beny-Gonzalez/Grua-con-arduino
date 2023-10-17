@@ -21,5 +21,5 @@ Material:
 - Eliminador de 3v-12v.
 
 Diagrama a emplementar:
-![276013294-c44bb12a-fb90-4dd1-93df-565b83ff6782-transformed](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/2f1cc5ba-b568-4d2c-9408-c22406140498)
+![276013294-c44bb12a-fb90-4dd1-93df-565b83ff6782-transformed-transformed](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/fd3ba922-6591-4736-b23e-9a92b21537f0)
 
