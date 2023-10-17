@@ -2,8 +2,6 @@
 
 ![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/ff37e9c0-f71a-47a5-8a7d-6510767a3ed6)
 ![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/6f29d8aa-a87b-4c6a-97c7-fb4a7a9830d5)
-![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/65029307-07b2-4560-b96d-130e538574c2)
-
 
 Funciones:
 
@@ -23,4 +21,5 @@ Material:
 - Eliminador de 3v-12v.
 
 Diagrama a emplementar:
-![image](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/c44bb12a-fb90-4dd1-93df-565b83ff6782)
+![276013294-c44bb12a-fb90-4dd1-93df-565b83ff6782-transformed](https://github.com/Beny-Gonzalez/Grua-con-arduino/assets/147663667/2f1cc5ba-b568-4d2c-9408-c22406140498)
+
